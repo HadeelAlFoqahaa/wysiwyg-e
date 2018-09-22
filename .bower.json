@@ -45,7 +45,7 @@
     "prism-element": "PolymerElements/prism-element#latest",
     "marked-element": "PolymerElements/marked-element#latest",
     "iron-component-page": "PolymerElements/iron-component-page#latest",
-    "undo-mgr": "git@github.com/HadeelAlFoqahaa/undo-mgr.git",
+    "undo-mgr": "git@github.com:HadeelAlFoqahaa/undo-mgr.git",
     "selection-mgr": "git@github.com:HadeelAlFoqahaa/selection-mgr.git"
   },
   "resolutions": {
